@@ -19,17 +19,3 @@ cd \Capstone_Bank_Project\src\main\java\com\bank
 ```bash
 java -jar CapstoneBankProjectApplication.java
 ```
-
-## For Frontend
-
-** Installing required dependencies **
-
-```bash
-npm install / npm i
-```
-
-** Navigate to the path & run the application **
-
-```Path
-ng serve
-```
